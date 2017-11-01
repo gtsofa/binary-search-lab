@@ -1,4 +1,4 @@
-class BinarySearch(object):
+class binarySearch(object):
     """Binary Search Implementation code
     
     """
